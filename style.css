@@ -1,0 +1,17 @@
+body{
+    font: 1em sans-serif;
+}
+.title{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.buttons{
+    display: flex;
+    justify-content: end;    
+    width: 100%;
+    margin-bottom: 1em;
+}
+.buttons button{
+    margin: 0 0 0 0.5em;
+}
